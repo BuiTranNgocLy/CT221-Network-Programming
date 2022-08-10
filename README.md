@@ -2,8 +2,7 @@
 Xây dựng ứng dụng bằng Java
 
 # Chương 1: Tổng quan
-## Truyền thông Truyền thông
-
+## Truyền thông 
 ## Cơ chế giao tiếp liên quá trình (IPC)
 ## Mô hình OSI
 ## Mạng TCP/IP
