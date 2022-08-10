@@ -19,4 +19,8 @@
 # 2. Mô hình OSI
 
 ![image](https://user-images.githubusercontent.com/88178841/183804072-6c969ebe-1f26-48ce-b359-42e214346a11.png)
+- Kiến trúc các hệ điều hành mạng:
+
+![image](https://user-images.githubusercontent.com/88178841/183810278-798a8dce-9fba-4769-b9f3-223ee63c37ea.png)
+`Cùng chức năng, không tương tác`
 
