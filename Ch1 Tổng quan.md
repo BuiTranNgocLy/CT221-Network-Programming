@@ -24,3 +24,11 @@
 ![image](https://user-images.githubusercontent.com/88178841/183810278-798a8dce-9fba-4769-b9f3-223ee63c37ea.png)
 `Cùng chức năng, không tương tác`
 
+# 3. Mạng TCP/IP
+- Giao thức chung để giao tiếp trên Internet
+- Dùng OSI `5 tầng`
+
+![image](https://user-images.githubusercontent.com/88178841/183813127-e42edc45-7b44-47ec-98ce-c972b288cf42.png)
+
+# 
+
