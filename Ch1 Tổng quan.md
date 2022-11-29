@@ -30,5 +30,19 @@
 
 ![image](https://user-images.githubusercontent.com/88178841/183813127-e42edc45-7b44-47ec-98ce-c972b288cf42.png)
 
-# 
+- Bộ giao thức TCP/IP:
+
+![image](https://user-images.githubusercontent.com/88178841/204540176-db68debd-2fcf-4b14-922a-37f28b06b3f2.png)
+# 4.Dịch vụ mạng
+- `Net service`: chương trình ứng dụng thực hiện 1 tác vụ nào đó trên hệ thống mạng.
+- Mô hình cơ bản xây dựng dịch vụ mạng `Client - Server`
+# 5. Mô hình Client - server
+![image](https://user-images.githubusercontent.com/88178841/204542324-6bd224e9-db8f-4340-b585-04232b19c83c.png)
+- `Client`: tạo ra yêu cầu -> gửi yêu cầu qua server -> chờ server xử lí -> nhận kết quả, xử lí theo mục riêng
+- `Server`: lắng nghe yêu cầu -> nhận yêu cầu -> xử lí yêu cầu -> gửi kết quả client
+- `Giao thức thông điệp tùy vào protocol của dịch vụ`
+## Mô hình client-server của dịch vụ web:
+![image](https://user-images.githubusercontent.com/88178841/204543489-6f3c3494-3a69-48ec-af80-b2e4269c289a.png)
+## Các chế độ giao tiếp: `nghẽn` & `không nghẽn`
+![image](https://user-images.githubusercontent.com/88178841/204543929-bdcf63a5-48cd-41e8-9cbc-0bf34fe1d497.png)
 
