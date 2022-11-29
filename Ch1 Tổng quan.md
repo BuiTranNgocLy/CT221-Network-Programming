@@ -46,3 +46,4 @@
 ## Các chế độ giao tiếp: `nghẽn` & `không nghẽn`
 ![image](https://user-images.githubusercontent.com/88178841/204543929-bdcf63a5-48cd-41e8-9cbc-0bf34fe1d497.png)
 
+# 6. Các kiểu kiến trúc chương trình
